@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharven Doshi</h1>
 <h3 align="center">A passionate Frontend developer | Java developer | Android application developer</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/70836668/107122694-39a3a400-68bf-11eb-8167-88c8a0841e09.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/70836668/107123065-77093100-68c1-11eb-9385-3504e8723313.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharven&label=Profile%20views&color=0e75b6&style=flat" alt="dharven" /> </p>
 
