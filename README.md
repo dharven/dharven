@@ -29,5 +29,6 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharven&show_icons=true&locale=en&layout=compact" alt="dharven" /></p>
 <br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharven&show_icons=true&locale=en" alt="dharven" /></p>
 
